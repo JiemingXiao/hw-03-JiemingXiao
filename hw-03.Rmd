@@ -1,7 +1,7 @@
 ---
 title: "HW 03 - Road traffic accidents"
-author: "Insert your name here"
-date: "Insert date here"
+author: "Jieming Xiao"
+date: "07/14/2022"
 output: github_document
 ---
 
@@ -16,24 +16,24 @@ library(dsbox)
 
 ### Exercise 1
 
-Remove this text, and add your answer for Exercise 1 here.
+There are `r nrow(accidents)` rows in the dataset. 
 
 ### Exercise 2
 
-Remove this text, and add your answer for Exercise 2 here.
+Each row represents a case of road traffic accident.
 
 ### Exercise 3
 
-Remove this text, and add your answer for Exercise 3 here.
+
 
 ```{r label-me-1}
-# remove this comment and add the code for Exercise 3 here
+
 ```
 
 ### Exercise 4
 
-Remove this text, and add your answer for Exercise 4 here.
+
 
 ```{r label-me-2}
-# remove this comment and add the code for Exercise 4 here
+
 ```
